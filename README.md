@@ -1,6 +1,6 @@
 # EMURGO Academy Haskell Course: Part II
 
-This repository contains a preconfigured Haskell development environment, allowing you to start coding in Haskell with zero installation using [Gitpod](https://www.gitpod.io/) and a browser-based version of VS Code.
+This repository contains a preconfigured Haskell development environment, allowing you to start coding in Haskell with zero installation using [Gitpod](https://cryptogenia-haskellhang-yxp7efcsii1.ws-eu82.gitpod.io/) and a browser-based version of VS Code.
 
 The environment contains a guided Hangman project, designed as a companion to the second part of EMURGO Academy's Haskell course.
 
